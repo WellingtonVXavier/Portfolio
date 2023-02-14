@@ -2,24 +2,24 @@
 
 * {
     margin: 0;
-    padding: 0; 
+    padding: 0;
 }
 
 body {
     height: 100vh;
     box-sizing: border-box;
-    background-color: rgb(0, 0, 0);
-    color: #f6f6f6;
+    background-color: #2C3639;
+    color: #DCD7C9;
 }
 
 img {
-    width: 350px;
-    height: 350px;
+    width: 365px;
+    height: 365px;
     border-radius: 50%;
 }
 
 .titulo-destaque {
-    color: #22d4fd;
+    color: #A27B5C;
 }
 
 .apresentacao {
@@ -69,9 +69,9 @@ img {
     font-weight: 600;
     padding: 15px 0;
     text-decoration: none;
-    color: #f6f6f6;
+    color: #A27B5C;
     font-family: 'Montserrat', sans-serif;
-    border: 2px solid #22d4fd;
+    border: 2px solid #3F4E4F;
     display: flex;
     justify-content: center;
     gap: 10px;
@@ -84,5 +84,5 @@ img {
 .apresentacao__links__link img{
     width: 23px;
     height: 23px;
-    background-color: #22d4fd;
+    background-color: #A27B5C;
 }
