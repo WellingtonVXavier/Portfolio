@@ -142,7 +142,23 @@ img {
     width: 100%;
     padding: 20px;
     justify-content: end;
-    top: 110px
+    top: 110px;
+}
+
+.rodape2 {
+    color: var(--cor-terciaria);
+    background-color: var(--cor-secundaria);
+    font-family: var(--font-primaria);
+    font-size: 1rem;
+    font-weight: 400;
+    display: flex;
+    position: relative;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+    padding: 20px;
+    justify-content: end;
+    top: 14rem
 }
 
 @media (min-width: 480px) and (max-width: 1200px) {
