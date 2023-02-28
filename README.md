@@ -1,2 +1,3 @@
 # Portfolio
-Este é meu portfólio feito no plano de carreira Front end da Aluna.
+
+Meu primeiro portfólio desenvolvido com o curso de HTML e CSS da Alura.
